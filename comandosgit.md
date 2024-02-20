@@ -35,10 +35,14 @@ versiones que se tienen hasta el momento de un proyecto:
 - git log --oneline
 - git log (para ver las versiones con mas detalles; quien lo hizo, como lo hizo, desde donde, fecha)
 
-volver a la version anterior:
-- git checkout "id-la-version"
+navegar entre versiones:
+- git checkout "id-la-version" este comando solo funciona de anera local 
 
+para devolverme a la ultima version:
+- git checkout (master o main)
 
+comando para volver a la enterior version:
+- git checkout --.
 
 
 
