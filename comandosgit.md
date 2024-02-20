@@ -20,13 +20,22 @@ comando para inicializar git en un directorio(penderlo por cada carpeta que vaya
 
 pasos para crear una version de mi codigo:
 1. agregar los cambios:
-- git add . (para agregar todos los archivos)
+- git add . (para agregar TODOS los archivos)
 - git add *.js(si quiero agregar todos los archivos .js)
 - git add *.html(agregar todos los archivos html)
-- git add .nombre-del-archivo(para un archivo especifico)
+- git add nombre-del-archivo(para un archivo especifico)
 
 comandos para ver el estado de los archicos:
 - git status
+
+comando para crear una version en git o comprometer los archivos:
+- git commit -m "descripcion del commit"
+
+versiones que se tienen hasta el momento de un proyecto:
+- git log --oneline
+- git log (para ver las versiones con mas detalles; quien lo hizo, como lo hizo, desde donde, fecha)
+
+
 
 
 
