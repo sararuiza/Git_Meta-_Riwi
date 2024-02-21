@@ -12,3 +12,5 @@ es cuando dos personas tocan una misma linea de cogigo y luego intentan fusionar
 
 # comando para crear una nueva rama
 - git branch nombre_rama(sin espacios)
+
+# comando para cambiar de rama
