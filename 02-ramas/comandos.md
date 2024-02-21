@@ -14,3 +14,5 @@ es cuando dos personas tocan una misma linea de cogigo y luego intentan fusionar
 - git branch nombre_rama(sin espacios)
 
 # comando para cambiar de rama
+- git checkout nombre_rama
+- git switched nombre_rama
