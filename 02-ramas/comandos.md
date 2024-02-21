@@ -16,3 +16,20 @@ es cuando dos personas tocan una misma linea de cogigo y luego intentan fusionar
 # comando para cambiar de rama
 - git checkout nombre_rama
 - git switched nombre_rama
+
+# comando para elimanar una rama
+- git branch -D nombre_rama
+
+# cambiar entre ramas
+- git switch nombre_rama
+- git checkout nombre_rama
+- git chechkout -b nombre_rama
+
+# desvincular un archivo de git que se le estaba dando segumiento
+- git rm --cached nombre_archivo
+
+# comando para crear una nueva version con archivos que ya se estaban dando seguimiento
+- git commit -am nombre_rama
+
+# comando para unir ramas
+- git merge nombre_rama
