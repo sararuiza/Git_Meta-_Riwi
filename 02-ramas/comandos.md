@@ -33,3 +33,6 @@ es cuando dos personas tocan una misma linea de cogigo y luego intentan fusionar
 
 # comando para unir ramas
 - git merge nombre_rama
+
+# como crear un alias o un shortwords
+- git config --global alias.lg `escribo el comando a ejecutar`
